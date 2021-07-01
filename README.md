@@ -1,2 +1,2 @@
 # CharredExpanse
-CharredExpanse Game Engine
+Charred Expanse Game Engine
